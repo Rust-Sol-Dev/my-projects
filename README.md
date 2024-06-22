@@ -48,9 +48,9 @@ OXFX is a cryptocurrency exchange platform that allows users to buy, sell, and t
 ExoWorlds.io is a Sci-Fi NFT blockchain MMORPG (Massively Multiplayer Online Role-Playing Game) built on the VeChainThor Blockchain. The game is designed to offer an immersive open-world experience with in-depth gameplay, a captivating storyline, and high-quality graphics powered by Unreal Engine 5.1. 
 
 My responsibilities included backend development using Node.js, smart contract programming with Rust, and creating the game's website with Next.js and Tailwind CSS.
-
+<a href="https://exoworlds.io" target ="_blank">
 <img align="right" width="300px" src="https://i.ibb.co/X7dHtBK/exoworlds.png">
-
+</a>
 - Site: <a href="https://exoworlds.io">Exoworlds</a>
 - Functions
   - Galactic P2E Metaverse
@@ -62,14 +62,16 @@ My responsibilities included backend development using Node.js, smart contract p
 - Tech: React, Next.js, Tailwind, TypeScript, Web3.js, Wagmi
 <br />
 
-<h3><u><strong><i>SwapSlots Casino</i></strong></u></h3>
+<h3><u><strong><i>SwepSlots Casino</i></strong></u></h3>
 <hr />
 
 SweepSlots.com is an online social casino platform owned and operated by Regal Technologies, LLC. It offers a variety of casino-style games, including slots, table games, and keno, in a sweepstakes format. Players can use virtual currencies such as Gold Coins and Sweeps Coins to play games, with the option to redeem Sweeps Coins for cash prizes.
 
-<img align="right" width="300px" src="https://i.ibb.co/sq1WjmY/sweepslots.png">
+<a href="https://sweepslots.com" target ="_blank">
+  <img align="right" width="300px" src="https://i.ibb.co/sq1WjmY/sweepslots.png">
+</a>
 
-- Site: <a href="https://sweepslots.com">Sweepslots</a>
+- Site: <a href="https://sweepslots.com" target ="_blank">Sweepslots</a>
 - Role: Front End Developer
 - Tech: React, Styled Components, AOS, Slick, Google Font, TypeScript
 <br />
