@@ -219,10 +219,7 @@ I lead the development of the backend for Ord Toolkit, a platform focused on ord
 <img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
 
 - Site: <a href="https://ordtoolkit.app/">Ord Toolkit</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
-
+- 
 <br />
 
 
@@ -249,9 +246,6 @@ The developer behind DexOrdi aims for this repository to be a valuable resource 
 
 
 - Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
 
 <br />
 
