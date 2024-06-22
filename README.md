@@ -24,6 +24,20 @@ DeadBear Inc. Agency operates on the Solana blockchain, providing a comprehensiv
 - Tech: React, Styled Components, TypeScript, Tailwind, Rust, Sol/web.js, Node, MongoDB, Express
 <br />
 
+<h3><u><strong><i>OXFX Central Exchange</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+
+OXFX is a cryptocurrency exchange platform that allows users to buy, sell, and trade a wide variety of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), etc. It is known for its user-friendly interface, advanced trading features, and strong security measures. OXFX supports various trading options such as spot trading, margin trading, futures trading, and more. It also offers additional services like staking, lending, and a trading bot for automated trading.
+
+<img align="right" width="300px" src="https://i.ibb.co/25dyvqb/oxfx.png">
+
+- Site: <a href="https://demo.oxfx.io">OXFX CEX</a>
+- Role: Full Stack Engineer & Infra Developer
+- Tech: React, Styled Components, TypeScript, Redux, Node.js, Express, Azure DevOps
+<br />
+
 <h3><u><strong><i>Exoworlds Marketplace</i></strong></u></h3>
 <hr />
 
@@ -50,8 +64,6 @@ My responsibilities included backend development using Node.js, smart contract p
 
 <h3><u><strong><i>SwapSlots Casino</i></strong></u></h3>
 <hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 
 SweepSlots.com is an online social casino platform owned and operated by Regal Technologies, LLC. It offers a variety of casino-style games, including slots, table games, and keno, in a sweepstakes format. Players can use virtual currencies such as Gold Coins and Sweeps Coins to play games, with the option to redeem Sweeps Coins for cash prizes.
 
@@ -263,12 +275,6 @@ The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin upd
 <img align="right" width="300px" src="https://i.ibb.co/0D21Pjx/Asigna.png">
 
 - Live: <a href="https://btc.asigna.io/">Asigna Bitcoin Multisig</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/AsignaContract">Asigna Smart Contract</a>
-  - backend repo: <a href="https://github.com/milojeBtc/AsignaBackend">Asigna Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/AsignaFrontend">Asigna Front End</a>
-
-
 
 <h3><u><strong><i>Ordinal Raffle</i></strong></u></h3>
 <hr />
@@ -289,10 +295,6 @@ I developed the front end of the Ordinal Raffle project using React and the back
 <img align="right" width="300px" src="https://i.ibb.co/Bz3kFvw/Satoshi.png">
 
 - Site: <a href="https://satoshipunks.art">SatoshiPunks</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/milojeBtc/ordipucks-be">SatoshiPunks-Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/ordipunks-fe">SatoshiPunks-Frontend</a>
-
 <br />
 
 <h3><u><strong><i>DigiMonkz</i></strong></u></h3>
@@ -313,10 +315,6 @@ DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, 
 <img align="right" width="300px" src="https://i.ibb.co/qkBWHrJ/Digmonks.png" alt="Digmonks">
 
 - Live: <a href="https://digimonkz.com/">Digimonkz</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/DigiMonkz-Staking">Digimonkz-SmartContract</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/DigiMokz-Frontend">Digimonkz-Frontend</a>
-
 
 <h3><u><strong><i>MetaSeep Protocol</i></strong></u></h3>
 <hr />
@@ -340,11 +338,6 @@ The NFT & ETH Raffle project offers participants the opportunity to acquire tick
 
 - Demo: <a href="https://metasweep.io/">MetaSweep Protocol</a>
 - Live: <a href="https://metawin.com">MetaWin Protocol</a>
-- Github repos: 
-  - smart contract repo: <a href="https://github.com/milojeBtc/RaffleSmartContract">MetaSweep Smart Contract</a>
-  - backend repo: <a href="https://github.com/milojeBtc/RaffleBackend">MetaSweep Backend</a>
-  - frontend repo: <a href="https://github.com/milojeBtc/RaffleProject">MetaSweep Front End</a>
-
 
 <!-- <h2 align="center"><u><strong><i>Solana</i></strong></u></h2> -->
 
@@ -366,13 +359,7 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
 <img align="right" width="300px" src="https://i.ibb.co/yYSj4Vm/Hubble.png">
 
 - Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
-  - Functionality
+  - Functions
     - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
     - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
     - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
-- Github repo:
-  - Contract: <a href="https://github.com/milojeBtc/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/milojeBtc/Hubble-landing-page">Hubble Landing Page</a>
-
-
