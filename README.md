@@ -2,28 +2,6 @@
 
 <!-- <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2> -->
 
-<h3><u><strong><i>DeadBearInc</i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-DeadBear Inc. Agency operates on the Solana blockchain, providing a comprehensive dashboard for managing $SCUM tokens. Users can individually burn tokens and participate in missions designed to incentivize token burning. This platform aims to engage users in various activities that contribute to the overall tokenomics and ecosystem of the $SCUM token.
-
-<img align="right" width="300px" src="https://i.ibb.co/d02C7qN/Screenshot-14.png">
-
-- Site: <a href="https://deadbearinc.agency">DeadBear Inc</a>
-- Role: Full Stack Engineer & Smart contract Engineer
-- Tech: React, Styled Components, TypeScript, Tailwind, Rust, Sol/web.js, Node, MongoDB, Express
-<br />
-
 <h3><u><strong><i>OXFX Central Exchange</i></strong></u></h3>
 <hr />
 
