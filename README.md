@@ -36,8 +36,8 @@ My responsibilities included backend development using Node.js, smart contract p
   - Gameplay Elements
   - Economy and Marketplaces
   - Tokenomics
-- Role: Front End Developer
-- Tech: React, Next.js, Tailwind, TypeScript, Web3.js, Wagmi
+- Role: Blockchain Engineer
+- Tech: React, Next.js, Tailwind, TypeScript, Web3.js, Wagmi, Node.js, Solidity, Hardhat
 <br />
 
 <h3><u><strong><i>SwepSlots Casino</i></strong></u></h3>
@@ -82,8 +82,8 @@ DeFiTankLand is an MMO tank game that integrates blockchain technology, specific
 <img align="right" width="300px" src="https://i.ibb.co/BP12g8j/defitankland.png">
 
 - Site: <a href="https://defitankland.com">DeFi Tank Land</a>
-- Role: Front End Engineer
-- Tech: React, Next.js, Tailwind, TypeScript
+- Role: Blockchain Engineer
+- Tech: React, Next.js, Tailwind, TypeScript, Solidity, Node.js, Hosting
 <br />
 
 
@@ -115,8 +115,8 @@ The platform aims to simplify the DeFi investment process and provide a secure e
 <img align="right" width="300px" src="https://i.ibb.co/TYNyD4X/athena.png">
 
 - Site: <a href="https://athenadexfi.io/">Athena</a>
-- Role: Web3 Front End Engineer
-- Tech: React, Next.js, Styled Components, MUI, ApexChart.js, Ether.js, PWA, Netlify
+- Role: Web3 Engineer
+- Tech: React, Next.js, Styled Components, MUI, ApexChart.js, Ether.js, PWA, Netlify, Node.js, Solidity/Hardhat
 <br />
 
 
@@ -155,8 +155,8 @@ Trestle Protocol is a blockchain project focused on connecting the Celestia and 
 <img align="right" width="300px" src="https://i.ibb.co/gmxjqtH/trestleprotocol.png">
 
 - Site: <a href="https://www.trestleprotocol.io/">Trestle Protocol</a>
-- Role: Web3 Front End Engineer
-- Tech: React, Next.js, Tailwind, TypeScript, Wagmi, Hosting
+- Role: Web3 Engineer
+- Tech: React, Next.js, Tailwind, TypeScript, Wagmi, Hosting, Solidity
 <br />
 
 
