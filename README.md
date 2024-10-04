@@ -11,7 +11,7 @@ OXFX is a cryptocurrency exchange platform that allows users to buy, sell, and t
 
 <img align="right" width="300px" src="https://i.ibb.co/25dyvqb/oxfx.png">
 
-- Site: <a href="https://demo.oxfx.io">OXFX CEX</a>
+- Site: <a href="https://oxfx.com">OXFX CEX</a>
 - Role: Full Stack Engineer & Infra Developer
 - Tech: React, Styled Components, TypeScript, Redux, Node.js, Express, Azure DevOps
 <br />
