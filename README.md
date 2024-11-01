@@ -15,6 +15,21 @@ Lmao.fun is a Solana Meme Coin Launching Project based on Linear Bonding Curve C
 - Tech: Solana, Rust, Anchor, React, Node.js, Tailwind, MongoDB
 <br />
 
+<h3><u><strong><i>Deadbear $SKUM Token Burning Dashboard</i></i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+
+Its a dashboard to burn $SKUM token solely or via mission
+
+![deadbear](https://github.com/user-attachments/assets/b7316a42-9e3e-4e7c-a9e9-112d7b9e2f7c)
+
+- Site: <a href="https://https://deadbearinc.agency">Deadbear Inc</a>
+- Role: Solana Full Stack Developer
+- Tech: Solana, Sol Web3, React, Node.js, Tailwind, MongoDB
+<br />
+
 <!-- <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2> -->
 
 <h3><u><strong><i>OXFX Central Exchange</i></strong></u></h3>
