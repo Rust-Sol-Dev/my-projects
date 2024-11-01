@@ -1,5 +1,20 @@
 # <i>My Previous Projects</i>
 
+<h3><u><strong><i>LMAO.FUN</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+
+Lmao.fun is a Solana Meme Coin Launching Project based on Linear Bonding Curve Concept
+
+![lmao fun](https://github.com/user-attachments/assets/4dfd270d-3282-44c5-9775-de93d977769f)
+
+- Site: <a href="https://lmao.fun">Lmao.fun</a>
+- Role: Solana Blockchain Engineer & Full Stack Developer
+- Tech: Solana, Rust, Anchor, React, Node.js, Tailwind, MongoDB
+<br />
+
 <!-- <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2> -->
 
 <h3><u><strong><i>OXFX Central Exchange</i></strong></u></h3>
