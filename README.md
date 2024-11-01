@@ -15,6 +15,36 @@ Lmao.fun is a Solana Meme Coin Launching Project based on Linear Bonding Curve C
 - Tech: Solana, Rust, Anchor, React, Node.js, Tailwind, MongoDB
 <br />
 
+<h3><u><strong><i>Solistic Finance</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+
+Solistic Finance is a cutting-edge DeFi protocol built on the Solana blockchain offering liquid staking & seamless Lending
+
+![solistic](https://github.com/user-attachments/assets/b147e538-e93c-419e-8d94-5e5381e94194)
+
+- Site: <a href="https://www.solistic.finance">Solistic Finance</a>
+- Role: Solana Smart Contract Engineer
+- Tech: Solana, Anchor, Rust
+<br />
+
+<h3><u><strong><i>Superior Liquidity X</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+
+Superior Liquidity X is a platform to securely lock lp tokens in solana
+
+![slx](https://github.com/user-attachments/assets/3775e471-d164-4fc8-98e8-c2386ab05e4e)
+
+- Site: <a href="https://slx.wtf">Superior Liquidity X</a>
+- Role: Solana Smart Contract Engineer & Full Stack Developer
+- Tech: Solana, Anchor, Rust, React, Vite, Styled Components, Node.js
+<br />
+
 <h3><u><strong><i>Deadbear $SKUM Token Burning Dashboard</i></i></strong></u></h3>
 <hr />
 
