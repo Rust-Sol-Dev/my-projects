@@ -60,20 +60,6 @@ Its a dashboard to burn $SKUM token solely or via mission
 - Tech: Solana, Sol Web3, React, Node.js, Tailwind, MongoDB
 <br />
 
-<h3><u><strong><i>Solana Telegram Trading Bot</i></i></strong></u></h3>
-<hr />
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
-
-Telegram Trading Bot to trade, snipe tokens on solana. It provides Jupiter, Meteora, Raydium, Pump.fun swap.
-
-![telegram trading bot](https://github.com/user-attachments/assets/4b24b8b3-4abd-4982-b5ae-c4f1dd05bfe1)
-
-- Role: Solana Full Stack Developer
-- Tech: Solana, Sol Web3, GrammyJS, MongoDB, Node.js
-<br />
-
 <!-- <h2 align="center"><u><strong><i>฿itcoin Projects</i></strong></u></h2> -->
 
 <h3><u><strong><i>OXFX Central Exchange</i></strong></u></h3>
