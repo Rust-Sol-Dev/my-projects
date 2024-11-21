@@ -55,7 +55,7 @@ Its a dashboard to burn $SKUM token solely or via mission
 
 ![deadbear](https://github.com/user-attachments/assets/b7316a42-9e3e-4e7c-a9e9-112d7b9e2f7c)
 
-- Site: <a href="https://https://deadbearinc.agency">Deadbear Inc</a>
+- Site: <a href="https://deadbearinc.agency">Deadbear Inc</a>
 - Role: Solana Full Stack Developer
 - Tech: Solana, Sol Web3, React, Node.js, Tailwind, MongoDB
 <br />
