@@ -30,6 +30,22 @@ Solistic Finance is a cutting-edge DeFi protocol built on the Solana blockchain 
 - Tech: Solana, Anchor, Rust
 <br />
 
+<h3><u><strong><i>Pillzumi(Solana AI Agent Project)</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-34495E?style=flat-square&logo=solana&logoColor=white)
+
+Pillzumi aims to change that by creating AI agents that evolve through an autonomously generated story. Centered around the tale of pills escaping their pharmacy, Pillzumi demonstrates that agent-based projects should be led by stories, allowi.
+
+![pillzumi](https://github.com/user-attachments/assets/0b8b53b5-504b-4efe-8602-49c4e124337b)
+
+- Site: <a href="https://www.solistic.finance">Pillzumi</a>
+- Role: Solana / AI Engineer
+- Tech: Solana, Anchor, Rust, AI, Eliza(AI agent framework), React, Node.js
+<br />
+
+
 <h3><u><strong><i>Superior Liquidity X</i></strong></u></h3>
 <hr />
 
