@@ -1,6 +1,6 @@
 # <i>My Previous Projects</i>
 
-<h3><u><strong><i>LMAO.FUN</i></strong></u></h3>
+<h3><u><strong><i>Lmao.fun (Pump.fun Forking Project in Solana)</i></strong></u></h3>
 <hr />
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
